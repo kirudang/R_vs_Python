@@ -1,3 +1,5 @@
+#This shows several difference in syntax between R and Python.
+
 ## **Critical differences**
 This section highlights differences in Python and R that could result in inadvertent errors if the wrong convention is used (i.e. code may still run but would produce wrong result).
 
